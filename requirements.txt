@@ -1,1 +1,2 @@
-cstruct
+cstruct==2.1
+python-lzo
